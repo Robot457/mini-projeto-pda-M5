@@ -92,3 +92,7 @@ Este projeto utiliza o ESLint e o Prettier para padronização de código.
 ## Endpoints
 
 Todos os endpoints e chamadas podem ser encontrados  na pasta `http` na raiz do projeto.
+
+## Publicação do projeto no LinkedIn
+
+<https://www.linkedin.com/posts/simeone-johnson-5192942b2_libro-api-de-livros-estou-animado-activity-7181391025792307201-9UMr?utm_source=share&utm_medium=member_desktop>
